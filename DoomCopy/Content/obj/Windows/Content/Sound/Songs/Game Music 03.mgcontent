@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Songs/Game Music 03.mp3</SourceFile>
+  <SourceTime>2020-04-27T18:18:35.9587232+02:00</SourceTime>
+  <DestFile>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/bin/Windows/Content/Sound/Songs/Game Music 03.xnb</DestFile>
+  <DestTime>2020-04-27T18:25:17.842341+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/bin/Windows/Content/Sound/Songs/Game Music 03.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

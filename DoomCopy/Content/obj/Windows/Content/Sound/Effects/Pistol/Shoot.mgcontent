@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Pistol/Shoot.wav</SourceFile>
+  <SourceTime>2020-04-24T14:51:17.7676961+02:00</SourceTime>
+  <DestFile>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/bin/Windows/Content/Sound/Effects/Pistol/Shoot.xnb</DestFile>
+  <DestTime>2020-04-24T14:52:01.5344402+02:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

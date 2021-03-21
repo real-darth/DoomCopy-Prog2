@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Background/bg.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Background/bgt.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Effects/Basic.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Effects/Explosion.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Effects/Floating_Eye.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Effects/MuzzleFlash.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Effects/SpawnCircle.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Enemies/Eye.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Enemies/Loomer.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Enemies/Zombie.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Menu/exit.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Menu/highscore.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Menu/start.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Players/Player_Melee.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Players/Player_Pistol.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Players/Player_Rifle.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Players/Player_Shotgun.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Players/Player_Stab.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Pointer.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Shadow.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Weapons/Bullet.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Weapons/Grenade.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Weapons/Grenade_Launcher.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Weapons/Minigun.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Weapons/Pistol.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Weapons/Rifle.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Weapons/Rocket.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Weapons/Rocket_Launcher.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Art/Weapons/Shotgun.png</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Fonts/ARCADEPI.TTF</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Fonts/GameFont.spritefont</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Enemies/Loomer Death.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Enemies/Zombie Death 01.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Enemies/Zombie Death 02.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Enemies/Zombie Death 03.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Enemies/Zombie Death 04.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Explosions/explosion 01.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Explosions/explosion 02.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Grenade Launcher/Shoot.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Minigun/Empty.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Minigun/Shoot.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Minigun/Start.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Minigun/Stop.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Pistol/Shoot.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Player/Death.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Rifle/Shoot.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Rocket Launcher/Shoot.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Shotgun/Cock.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Shotgun/Reload.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Effects/Shotgun/Shoot.wav</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Songs/Game Music 01.mp3</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Songs/Game Music 02.mp3</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Songs/Game Music 03.mp3</File>
+    <File>C:/Users/Elliot Darth/Documents/GitHub/DoomCopy-Skolprojekt/DoomCopy-Skolprojekt-master/DoomCopy/Content/Sound/Songs/Main Menu.mp3</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

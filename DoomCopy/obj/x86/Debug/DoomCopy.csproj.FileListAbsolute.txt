@@ -1,0 +1,113 @@
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\obj\x86\Debug\DoomCopy.csprojAssemblyReference.cache
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\obj\x86\Debug\DoomCopy.csproj.CoreCompileInputs.cache
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\DoomCopy.exe
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\DoomCopy.pdb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\MonoGame.Framework.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\SharpDX.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\SharpDX.XInput.dll
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\MonoGame.Framework.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\SharpDX.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\SharpDX.XInput.xml
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\obj\x86\Debug\DoomCopy.csproj.CopyComplete
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\obj\x86\Debug\DoomCopy.exe
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\obj\x86\Debug\DoomCopy.pdb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\Content\Art\Weapons\Bullet.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\Content\Art\Weapons\Pistol.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\Content\Art\Players\Player.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\Content\Art\Enemies\Zombie.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\Content\Fonts\ARCADEPI.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\Content\Fonts\GameFont.xnb
+I:\rbk\Elevmtrl 03-04\Data\Tatiana\Elevmappar\PROG2221950\eki814\DoomCopy\DoomCopy\bin\Windows\x86\Debug\Content\Art\Pointer.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Weapons\Bullet.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Weapons\Pistol.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Fonts\ARCADEPI.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Fonts\GameFont.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Enemies\Zombie.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Pointer.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\DoomCopy.exe
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\DoomCopy.pdb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\obj\x86\Debug\DoomCopy.csprojAssemblyReference.cache
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\obj\x86\Debug\DoomCopy.csproj.CopyComplete
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\obj\x86\Debug\DoomCopy.exe
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\obj\x86\Debug\DoomCopy.pdb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Players\Player_Melee.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Players\Player_Pistol.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Weapons\Minigun.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Weapons\Rifle.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Weapons\Rocket_Launcher.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Weapons\Shotgun.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Players\Player_Rifle.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Players\Player_Shotgun.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Players\Player_Stab.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Enemies\Eye.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Enemies\Loomer.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\obj\x86\Debug\DoomCopy.csproj.CoreCompileInputs.cache
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Weapons\Rocket.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Background\bg.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Effects\Basic.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Effects\Explosion.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Effects\Floating_Eye.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Background\bgt.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Weapons\Grenade_Launcher.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Weapons\Grenade.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Effects\MuzzleFlash.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Songs\Game Music 01.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Songs\Game Music 02.wma
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Songs\Game Music 02.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Songs\Game Music 03.wma
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Songs\Game Music 03.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Songs\Main Menu.wma
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Songs\Main Menu.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Shotgun\Cock.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Shotgun\Reload.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Shotgun\Shoot.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Player\Death.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Pistol\Shoot.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Enemies\Loomer Death.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Player\Death.wma
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Rifle\Shoot.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Rocket Launcher\Shoot.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Grenade Launcher\Shoot.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Explosions\explosion 01.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Explosions\explosion 02.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Enemies\Zombie Death 01.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Enemies\Zombie Death 02.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Enemies\Zombie Death 03.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Enemies\Zombie Death 04.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Songs\Game Music 01.wma
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Minigun\Shoot.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Minigun\Start.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Minigun\Stop.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Sound\Effects\Minigun\Empty.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Effects\SpawnCircle.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Outline\Rifle.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Shadow.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Menu\exit.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Menu\highscore.xnb
+C:\Users\Elliot Darth\Documents\GitHub\DoomCopy-Skolprojekt\DoomCopy-Skolprojekt-master\DoomCopy\bin\Windows\x86\Debug\Content\Art\Menu\start.xnb

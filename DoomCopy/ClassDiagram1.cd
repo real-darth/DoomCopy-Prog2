@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DoomCopy.GameRoot" Collapsed="true">
+    <Position X="26.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEEAAAAAEAwAAAAIIAAAAAAAAAAgAQAAAAAAAAAQ=</HashCode>
+      <FileName>GameRoot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Program" Collapsed="true">
+    <Position X="28" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Art" Collapsed="true">
+    <Position X="38.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACKgQKQEIQAQBECEAABgIAGCAAMgAAABEQAAAESAAA=</HashCode>
+      <FileName>Scripts\Art\Art.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.EnemySpawner" Collapsed="true">
+    <Position X="13.75" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASAAIAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Enteties\Enemies\EnemySpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Entity" Collapsed="true">
+    <Position X="26.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAASBAAAwAAgICAIAAAABAAAACgAAQAAAAEAAA=</HashCode>
+      <FileName>Scripts\Enteties\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.EntityManager" Collapsed="true">
+    <Position X="43.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAIhAIAAAgAAAAQAAAAAAAAAAQEBAIAAEAsAAAA=</HashCode>
+      <FileName>Scripts\Enteties\EntityManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.PlayerManager" Collapsed="true">
+    <Position X="43.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIUAAEAAIBAQkQ0AAEAARADgAAAAAAACAAAAAAAQAAA=</HashCode>
+      <FileName>Scripts\Enteties\Player\PlayerManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Spawner" Collapsed="true">
+    <Position X="12.75" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACABAAAAAAAAAAAAAAAAAAAAAQEAAAAAAA=</HashCode>
+      <FileName>Scripts\Enteties\Spawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.WeaponSpawner" Collapsed="true">
+    <Position X="11.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Enteties\Weapons\WeaponSpawner.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Extensions" Collapsed="true">
+    <Position X="43.25" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EQAACCAAAAAAAAAIAAAAAAAAAAAAAAAAIAAIAAAAAAA=</HashCode>
+      <FileName>Scripts\Extensions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Input" Collapsed="true">
+    <Position X="37" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABMIAEAAAAAkAAAAAAAYAAAAgAAIAAAAAAAQDgAA=</HashCode>
+      <FileName>Scripts\Input\Input.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Enteties.Enemy" Collapsed="true">
+    <Position X="15" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQQAIAAAAAAAAAAAAAAABAAQAIAAAAAIAAAAAAAAgg=</HashCode>
+      <FileName>Scripts\Enteties\Enemies\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Enteties.Eye" Collapsed="true">
+    <Position X="12.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAgAAgAAAAAIAAAAQAAAACAAAAAAAAAAAgA=</HashCode>
+      <FileName>Scripts\Enteties\Enemies\Eye.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Enteties.Loomer" Collapsed="true">
+    <Position X="15" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAQAAAAgA=</HashCode>
+      <FileName>Scripts\Enteties\Enemies\Loomer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Enteties.Zombie" Collapsed="true">
+    <Position X="17.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAEAAAAAAAAABAAAAAAAAAAAAAAAIAQAAAAAAgA=</HashCode>
+      <FileName>Scripts\Enteties\Enemies\Zombie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Enteties.Player" Collapsed="true">
+    <Position X="35.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAIAAAEAAAgAEAAAAAAAAABBAAAAEQAAAAAAACAA=</HashCode>
+      <FileName>Scripts\Enteties\Player\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Enteties.Bullet" Collapsed="true">
+    <Position X="33.5" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Enteties\Weapons\Guns\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Enteties.Fists" Collapsed="true">
+    <Position X="19.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAARAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Enteties\Weapons\Melee Weapons\Fists.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Enteties.Rocket" Collapsed="true">
+    <Position X="34.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAgAAAAYAAAAAAAAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Enteties\Weapons\Projectile Weapons\Rocket.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Enteties.Weapon" Collapsed="true">
+    <Position X="26.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAgAAAAgghgAEACYE0AAAAAAFAAIQQAAAARiBAAA=</HashCode>
+      <FileName>Scripts\Enteties\Weapons\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Enteties.Weapons.AK47" Collapsed="true">
+    <Position X="27.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAAAQBAAAAAAAARAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Enteties\Weapons\Guns\AK47.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DoomCopy.Enteties.Weapons.Minigun" Collapsed="true">
+    <Position X="29.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQACAAAAQAQBAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Scripts\Enteties\Weapons\Guns\Minigun.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DoomCopy.Enteties.Weapons.Pistol" Collapsed="true">
+    <Position X="31" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Enteties\Weapons\Guns\Pistol.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DoomCopy.Enteties.Weapons.RocketLauncher" Collapsed="true">
+    <Position X="21.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Enteties\Weapons\Projectile Weapons\RocketLauncher.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DoomCopy.Enteties.Weapons.Shotgun" Collapsed="true">
+    <Position X="24" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAAAQBAAAAAAAARAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Scripts\Enteties\Weapons\Guns\Shotgun.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DoomCopy.Components.Component" Collapsed="true">
+    <Position X="16.5" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAQAAAAAAABAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Status Effects\Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Components.StatusEffect.StatusEffectKnockback" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="13.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAABAAAAAAAAAAIAAAAAAAAAAAAAABAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Status Effects\StatusEffectKnockback.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DoomCopy.Components.StatusEffect.StatusEffects" Collapsed="true">
+    <Position X="16.5" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Status Effects\StatusEffects.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Scripts.Status_Effects.StatusEffectBleed" Collapsed="true">
+    <Position X="18.25" Y="12.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Status Effects\StatusEffectBleed.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Background" Collapsed="true">
+    <Position X="38.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAIAAwQAQAAAAAAAACAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Art\Background\Background.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.GameMaster" Collapsed="true">
+    <Position X="26.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAADAAQAACBBQAAAAAAAAgABAAAACAIAAACAAAAAAQ=</HashCode>
+      <FileName>Scripts\Game States\GameMaster.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.MenuItem" Collapsed="true">
+    <Position X="29.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgIAAAIAAAAAAAAgAAAAIABAAAAAA=</HashCode>
+      <FileName>Scripts\Game States\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Menu" Collapsed="true">
+    <Position X="28" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAgAgAAAAAAAAAAAAgAAAAQ=</HashCode>
+      <FileName>Scripts\Game States\Menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.HSItem" Collapsed="true">
+    <Position X="46.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAgAAAAAAAAAQAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\HighScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.HighScore" Collapsed="true">
+    <Position X="45" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIgAAAAOgiAAAAIAAACAACAAAAEAYAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\HighScore.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.ParticleManager&lt;T&gt;" Collapsed="true">
+    <Position X="43.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAAAAAAAAAgAAAAAgAAAAIAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Particle Effects\ParticleManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Sound" Collapsed="true">
+    <Position X="38.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAgIAkAQSAIQEAgAIQAAAGEECEAAABAAQAAQEACEA=</HashCode>
+      <FileName>Scripts\Sound\Sound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Enteties.Explosion" Collapsed="true">
+    <Position X="33.5" Y="12.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAIAACAAAIAAAAAAAAAgAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Enteties\Explosion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Enteties.Grenade" Collapsed="true">
+    <Position X="32.5" Y="11" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAAAAAAAAAYAAAAAAAAIAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Enteties\Weapons\Projectile Weapons\Grenade.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DoomCopy.Enteties.Weapons.GrenadeLauncher">
+    <Position X="25.75" Y="8.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Enteties\Weapons\Projectile Weapons\GrenadeLauncher.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="DoomCopy.Components.StatusEffect.StatusEffectFreeze" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="12" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAABAAAAAAAAAAAAAgAAAAAAAAAAAAAIAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Status Effects\StatusEffectFreeze.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Struct Name="DoomCopy.Particle_Effects.ParticleState" Collapsed="true">
+    <Position X="45" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAEQgAAAAAAA=</HashCode>
+      <FileName>Scripts\Particle Effects\ParticleState.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Interface Name="DoomCopy.Components.StatusEffect.IStatusEffect" Collapsed="true">
+    <Position X="18.25" Y="11.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Status Effects\IStatusEffect.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="DoomCopy.Scripts.Sound.ShootingSound" Collapsed="true">
+    <Position X="40.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scripts\Sound\ShootingSound.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="DoomCopy.Particle_Effects.ParticleType" Collapsed="true">
+    <Position X="46.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAA=</HashCode>
+      <FileName>Scripts\Particle Effects\ParticleState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
